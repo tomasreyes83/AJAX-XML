@@ -87,9 +87,6 @@ Thank you for exploring the AJAX-XML repository! 🚀
 
 <div align="center">
   
-----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
-----------------------
 
 <details>
 
